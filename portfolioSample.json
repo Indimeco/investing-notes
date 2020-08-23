@@ -1,0 +1,5 @@
+[
+	{ "ticker": "NDQ.AX",  "friendlyName": "NASDAQ",  "amount": 30000 },
+	{ "ticker": "AMZN",    "friendlyName": "AMAZON",  "amount": 15000 },
+	{ "ticker": "SPLK",    "friendlyName": "SPLUNK",  "amount": 15000 }
+]
