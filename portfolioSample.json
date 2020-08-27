@@ -1,5 +1,10 @@
-[
-	{ "ticker": "NDQ.AX",  "friendlyName": "NASDAQ",  "amount": 30000 },
-	{ "ticker": "AMZN",    "friendlyName": "AMAZON",  "amount": 15000 },
-	{ "ticker": "SPLK",    "friendlyName": "SPLUNK",  "amount": 15000 }
-]
+{ 
+	"equities": [
+		{ "ticker": "NDQ.AX",  "name": "NASDAQ",  "amount": 30000 },
+		{ "ticker": "AMZN",    "name": "AMAZON",  "amount": 15000 },
+		{ "ticker": "SPLK",    "name": "SPLUNK",  "amount": 15000 }
+	],
+	"other": [
+		{ "name": "Bitcoin", "fromDate": "2013-01-01", "toDate": "2018-01-01", "amount": 1500, "changePerAnnum": 0.1 }
+	]
+}
