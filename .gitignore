@@ -2,3 +2,4 @@ data/
 .env
 portfolio.json
 .ipynb_checkpoints
+__pycache__
